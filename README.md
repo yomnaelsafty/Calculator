@@ -26,9 +26,6 @@ It performs basic arithmetic operations with a clean and user-friendly interface
 
 ## 📂 Project Structure
 
-
-
-
 calculator/
 │
 ├── index.html
@@ -49,7 +46,7 @@ calculator/
 
 ## 🌐 Live Demo
 
-https://your-link-here
+https://yomnaelsafty.github.io/Calculator/
 
 
 ---
