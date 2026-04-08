@@ -51,21 +51,6 @@ https://yomnaelsafty.github.io/Calculator/
 
 ---
 
-## ▶️ How to Use
-
-1. Open the project in your browser  
-2. Click on numbers and operators  
-3. Press "=" to get the result  
-4. Use "C" to clear the screen  
-
----
-
-## 🌐 Live Demo
-
-https://your-link-here
-
----
-
 ## 💡 Future Improvements
 
 - Add keyboard support ⌨️  
